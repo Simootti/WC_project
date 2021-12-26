@@ -4,7 +4,7 @@ Progetto del corso di Wireless Communication
 
 ## Scopo del progetto
 
-Realizzare una rete wireless SC-FDMA in uplink transmission in una topologia a 3 base station interferenti tra loro, tenendo conto di:
+Realizzare una rete wireless SC-FDMA in uplink transmission in una topologia di rete a 3 base stations interferenti tra loro, tenendo conto di:
 * Rayleigh fading
 * Multipath fading
 * Shadowing
